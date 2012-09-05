@@ -2,7 +2,7 @@ sdc-banking
 ===========
 
 # SDC Bank PHP API
-This is pretty much a direct port of the SDC Bank app built by my co worker Fas Mide [SDC Bank:https://github.com/fasmide/sdc-banking]. All I did was port his discoveries to PHP to better support CLI usage.
+This is pretty much a direct port of the SDC Bank app built by my co worker Fas Mide [SDC Bank](https://github.com/fasmide/sdc-banking). All I did was port his discoveries to PHP to better support CLI usage.
 
 ## Requirements
 1. PHP
