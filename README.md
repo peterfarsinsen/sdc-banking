@@ -1,15 +1,16 @@
-sdc-banking
+# SDC Bank PHP API
 ===========
 
-# SDC Bank PHP API
 This is pretty much a direct port of the SDC Bank app built by my co worker Fas Mide [SDC Bank](https://github.com/fasmide/sdc-banking). All I did was port his discoveries to PHP to better support CLI usage.
 
 ## Requirements
 1. PHP
-2. Figure out what your bank nunmber is. Mine is 9090, I'm a customor in Sparekassen Thy. Fas Mide uses 9380. He is a Sparnord customer.
+2. Figure out what your bank nunmber is. I use 9090. I'm a customer in Sparekassen Thy (the url to my online bank is https://www.portalbank.dk/9090). Fas Mide uses 9380. He is a Sparnord customer.
+
+If you figure out a way to get a list of these numbers please let me know.
 
 ## Usage
-Add your credentials to main.php and run it - in a browser or via the CLI.
+Add your credentials to main.php and run it - in a browser or via the CLI. The credentials are the same credentials as you would use for the "MobilBank" iOS app.
 
 ## License
 MIT License
